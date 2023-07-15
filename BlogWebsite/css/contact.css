@@ -1,0 +1,9 @@
+.contact-content {
+  height: 100vh;
+  margin-top: 20px;
+  padding: 9px;
+}
+
+body {
+  overflow: hidden;
+}
